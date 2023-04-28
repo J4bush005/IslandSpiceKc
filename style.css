@@ -1,0 +1,31 @@
+html {
+    height: 100%;
+    width: 100%;
+  }
+  
+  .rounded{
+    padding-right: 1000px;
+  }
+
+  .desc{
+    color:white;
+  }
+  
+
+
+
+
+
+
+  
+  #island {
+    margin: 0 0 0 0;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    background-image: url('https://menufyproduction.imgix.net:443/637336385318864735+263972.png?blendMode=normal&blend=87000000&auto=compress,format&fit=max&w=1024&h=1024');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+
+  }
