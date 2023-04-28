@@ -17,7 +17,10 @@ html {
 
 
 
-  
+  #my-image.img-thumbnail {
+    background-color: #498e04;
+ }
+
   #island {
     margin: 0 0 0 0;
     justify-content: center;
