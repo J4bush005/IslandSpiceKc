@@ -1,16 +1,27 @@
+@font-face {
+  font-family: 'JamacianFont';
+  src: url(fonts/Jamacian.ttf);
+}
 html {
     height: 100%;
     width: 100%;
   }
   
   .rounded{
-    padding-right: 1000px;
+    justify-content: center;
+    align-content: center;
   }
 
   .desc{
     color:white;
   }
+
+  h1 {
+    font-family: 'JamacianFont', sans-serif;
+  }
   
+
+
 
 
 
