@@ -17,6 +17,34 @@ html {
     color:white;
   }
 
+  .goldbar {
+    border: solid #498e04 1px;
+    height: 0px;
+    width: 120px;
+    margin-bottom: 10px;
+  }
+
+  .goldbar.options {
+    border:  solid #498e04 1px;
+    height: 0px;
+    width: 150px;
+    margin-bottom: 10px;
+  }
+
+  .goldbar.cuisines {
+    border:  solid #498e04 1px;
+    height: 0px;
+    width: 80px;
+    margin-bottom: 10px;
+  }
+
+  .goldbar.hours {
+    border:  solid #498e04 1px;
+    height: 0px;
+    width: 160px;
+    margin-bottom: 10px;
+  }
+
   h1 {
     font-family: 'JamacianFont', sans-serif;
   }
@@ -44,3 +72,5 @@ html {
     background-position: center;
 
   }
+
+ 
