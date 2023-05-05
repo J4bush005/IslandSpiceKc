@@ -80,6 +80,17 @@ html {
     background-position: center;
   }
 
+  #spices {
+    margin: 0 0 0 0;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    background-image: url('images/season.webp');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position:center;
+  }
+
   
 
  
