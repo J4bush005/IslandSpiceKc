@@ -45,6 +45,14 @@ html {
     margin-bottom: 10px;
   }
 
+  .goldbar.love {
+    border:  solid #498e04 1px;
+    height: 0px;
+    width: 500px;
+    margin-bottom: 10px;
+  }
+
+
   .hover {
     transition: all 0.3s;
 }
@@ -78,6 +86,7 @@ html {
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
+    height: 800px;
   }
 
   #spices {
@@ -89,7 +98,21 @@ html {
     background-repeat: no-repeat;
     background-size: cover;
     background-position:center;
+    height: 500px;
   }
+
+  #sauces {
+    margin: 0 0 0 0;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    background-image: url('images/black.jpg');
+    background-repeat: no-repeat;
+    background-size:cover;
+    background-position:center;
+    height: 500px;
+  }
+
 
   
 
